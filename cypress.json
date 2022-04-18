@@ -1,0 +1,8 @@
+{
+    "baseUrl" : "https://www.pokemon.com/us/",
+    "chromeWebSecurity" : false,
+    "defaultCommandTimeout": 10000,
+        "viewportWidth": 1300,
+        "viewportHeight": 800
+    }
+    
